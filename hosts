@@ -1,0 +1,5 @@
+### hosts file
+
+127.0.0.1 localhost mail-haproxy.paov6.localdomain
+::1       mail-haproxy.paov6.localdomain
+
